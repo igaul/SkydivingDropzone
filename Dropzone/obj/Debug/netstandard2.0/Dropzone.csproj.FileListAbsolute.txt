@@ -1,0 +1,14 @@
+C:\Users\ianga\Desktop\pc\ossl\SkydivingDropzone\Dropzone\bin\Debug\netstandard2.0\Dropzone.deps.json
+C:\Users\ianga\Desktop\pc\ossl\SkydivingDropzone\Dropzone\bin\Debug\netstandard2.0\Dropzone.dll
+C:\Users\ianga\Desktop\pc\ossl\SkydivingDropzone\Dropzone\bin\Debug\netstandard2.0\ref\Dropzone.dll
+C:\Users\ianga\Desktop\pc\ossl\SkydivingDropzone\Dropzone\bin\Debug\netstandard2.0\Dropzone.pdb
+C:\Users\ianga\Desktop\pc\ossl\SkydivingDropzone\Dropzone\obj\Debug\netstandard2.0\Dropzone.csprojAssemblyReference.cache
+C:\Users\ianga\Desktop\pc\ossl\SkydivingDropzone\Dropzone\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ianga\Desktop\pc\ossl\SkydivingDropzone\Dropzone\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ianga\Desktop\pc\ossl\SkydivingDropzone\Dropzone\obj\Debug\netstandard2.0\Dropzone.csproj.CoreCompileInputs.cache
+C:\Users\ianga\Desktop\pc\ossl\SkydivingDropzone\Dropzone\obj\Debug\netstandard2.0\Dropzone.AssemblyInfoInputs.cache
+C:\Users\ianga\Desktop\pc\ossl\SkydivingDropzone\Dropzone\obj\Debug\netstandard2.0\Dropzone.AssemblyInfo.cs
+C:\Users\ianga\Desktop\pc\ossl\SkydivingDropzone\Dropzone\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ianga\Desktop\pc\ossl\SkydivingDropzone\Dropzone\obj\Debug\netstandard2.0\Dropzone.dll
+C:\Users\ianga\Desktop\pc\ossl\SkydivingDropzone\Dropzone\obj\Debug\netstandard2.0\ref\Dropzone.dll
+C:\Users\ianga\Desktop\pc\ossl\SkydivingDropzone\Dropzone\obj\Debug\netstandard2.0\Dropzone.pdb
