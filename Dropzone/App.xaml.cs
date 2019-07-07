@@ -9,8 +9,8 @@ namespace Dropzone
         public App()
         {
             InitializeComponent();
-
-            MainPage = new MainPage();
+            // set nav page
+            MainPage = new NavigationPage(new MainPage());
         }
 
         protected override void OnStart()
