@@ -1,13 +1,13 @@
-# asciilines
-Copyright (c) 2019 Yufei Tao
+# Skydiving Dropzone
+Copyright (c) 2019 Yufei Tao Ian Gaul
 
-(Description section)
+Cross platform mobile app
 
 
 ## Build and Run
 (need to be updated)
 
-##Tests
+## Tests
 (need to be updated)
 
 ## License
