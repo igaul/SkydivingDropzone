@@ -1,8 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="Dropzone.MainPage">
-    <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to DropZone!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
-        <Button Text="Click Here" Clicked="Button_Clicked" />
+
+   
+    <StackLayout VerticalOptions="Center"
+                 Margin="20">        
+        <Label Text="Welcome to DropZone!" 
+               HorizontalOptions="Center"
+               Margin="25"/>
+        <Entry Placeholder="username" />
+        <!-- todo validate, pages from MainPage, etc -->
+        <Entry Placeholder="password"
+               IsPassword="True"/>
+        <Button x:Name="LoginButton"
+                Margin="25"
+                Text="Jump"
+                Clicked="LoginButton_Clicked"
+                />
     </StackLayout>
 </ContentPage>
+
