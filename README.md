@@ -18,14 +18,14 @@ software for license terms.
 
 #### Todo
 
-- [] map with saved pins
-- [] weather lists, saves
-- [] wind data
-- [] logbook 
-	- [] db
-	- [] add entry page
-- [] edit profile page
-- [] useful links (USPA, etc)
+- [ ] map with saved pins
+- [ ] weather lists, saves
+- [ ] wind data
+- [ ] logbook 
+	- [ ] db
+	- [ ] add entry page
+- [ ] edit profile page
+- [ ] useful links (USPA, etc)
 
 
 
