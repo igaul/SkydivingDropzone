@@ -4,14 +4,14 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="Dropzone.LogbookPage">
+             x:Class="Dropzone.ProfilePage">
     <ContentPage.ToolbarItems>
-        <ToolbarItem Text="Add Jump"
+        <ToolbarItem Text="Change profile"
                      Clicked="ToolbarItem_Clicked"/>
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Logbook"
+            <Label Text="Profile page"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>

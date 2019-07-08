@@ -11,5 +11,7 @@
     <local:WindPage Title="Wind"/>
     <local:LogbookPage Title="Logbook"/>
     <local:LinksPage Title="Links"/>
+    <local:ProfilePage Title="Profile"/>
+
 
 </TabbedPage>

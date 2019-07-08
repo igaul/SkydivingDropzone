@@ -10,17 +10,16 @@ using Xamarin.Forms.Xaml;
 namespace Dropzone
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class LogbookPage : ContentPage
+    public partial class ProfilePage : ContentPage
     {
-        public LogbookPage()
+        public ProfilePage()
         {
             InitializeComponent();
         }
-
         private void ToolbarItem_Clicked(object sender, EventArgs e)
         {
             // todo add entry to db
-            Navigation.PushAsync(new AddJumpPage());
+            Navigation.PushAsync(new ModifyProfilePage());
 
         }
     }
