@@ -1,7 +1,16 @@
 # Skydiving Dropzone
 Copyright (c) 2019 Yufei Tao Ian Gaul
 
-Cross platform mobile app
+# Description
+Cross platform mobile app for skydiving. This app can help 
+skydivers to log their jumps. They can either enter all the 
+information or use pre-saved infomration to add new jumps
+into the logbook.
+This app can also find nearby skydiving dropzones and provide
+current weather so user can see if the current weather is jumpable
+or not.
+Other than those two key features, it can also export the data so
+user can back up their jumps somewhere else.
 
 
 ## Build and Run
