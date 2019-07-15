@@ -18,9 +18,9 @@ current weather and wind conditions at the jumpsite.
 	
 Building this project is recommended using [Visual Studio](https://visualstudio.microsoft.com/vs/) on iOS or Windows. [Some Linux options available](https://www.monodevelop.com/)
 
--Clone this repo
--Open `SkydivingDropzone/Dropzone.sln` in VS
--Click Build ( allow VS to download packages, such as xamarin, if not currently installed )
+- Clone this repo
+- Open `SkydivingDropzone/Dropzone.sln` in VS
+- Click Build ( allow VS to download packages, such as xamarin, if not currently installed )
 
 [Load to android](https://github.com/YufeiT/SkydivingDropzone)
 
