@@ -1,0 +1,8 @@
+/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone.UITests/bin/Debug/Dropzone.UITests.dll
+/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone.UITests/bin/Debug/Dropzone.UITests.pdb
+/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone.UITests/bin/Debug/nunit.framework.dll
+/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone.UITests/bin/Debug/Xamarin.UITest.dll
+/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone.UITests/obj/Debug/Dropzone.UITests.csproj.CoreCompileInputs.cache
+/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone.UITests/obj/Debug/Dropzone.UITests.csproj.CopyComplete
+/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone.UITests/obj/Debug/Dropzone.UITests.dll
+/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone.UITests/obj/Debug/Dropzone.UITests.pdb

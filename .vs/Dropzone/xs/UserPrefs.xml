@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{29BE03EB-0594-48A0-8241-A174DAFF53C5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dropzone/MainPage.xaml">
+    <Files>
+      <File FileName="Dropzone/AddJumpPage.xaml.cs" Line="18" Column="10" />
+      <File FileName="Dropzone/LogbookPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Dropzone/AddJumpPage.xaml" Line="33" Column="46" />
+      <File FileName="Dropzone/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dropzone" expanded="True">
+            <Node name="Dropzone" expanded="True">
+              <Node name="AddJumpPage.xaml" expanded="True" />
+              <Node name="LogbookPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+            <Node name="Dropzone.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Dropzone" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Dropzone.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6D3604AB-F54B-4724-99F1-F644AE2B35C9" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Dropzone.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>
