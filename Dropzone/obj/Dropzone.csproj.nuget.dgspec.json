@@ -1,28 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yufei/Documents/CS461P/Dropzone/Dropzone/Dropzone.csproj": {}
+    "C:\\Users\\ianga\\Desktop\\pc\\ossl\\SkydivingDropzone\\Dropzone\\Dropzone.csproj": {}
   },
   "projects": {
-    "/Users/yufei/Documents/CS461P/Dropzone/Dropzone/Dropzone.csproj": {
+    "C:\\Users\\ianga\\Desktop\\pc\\ossl\\SkydivingDropzone\\Dropzone\\Dropzone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yufei/Documents/CS461P/Dropzone/Dropzone/Dropzone.csproj",
+        "projectUniqueName": "C:\\Users\\ianga\\Desktop\\pc\\ossl\\SkydivingDropzone\\Dropzone\\Dropzone.csproj",
         "projectName": "Dropzone",
-        "projectPath": "/Users/yufei/Documents/CS461P/Dropzone/Dropzone/Dropzone.csproj",
-        "packagesPath": "/Users/yufei/.nuget/packages/",
-        "outputPath": "/Users/yufei/Documents/CS461P/Dropzone/Dropzone/obj/",
+        "projectPath": "C:\\Users\\ianga\\Desktop\\pc\\ossl\\SkydivingDropzone\\Dropzone\\Dropzone.csproj",
+        "packagesPath": "C:\\Users\\ianga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ianga\\Desktop\\pc\\ossl\\SkydivingDropzone\\Dropzone\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/yufei/.config/NuGet/NuGet.Config"
+          "C:\\Users\\ianga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
