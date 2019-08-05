@@ -8,8 +8,8 @@
              x:Class="Dropzone.HomePage">
     <local:DropMap Title="Map"/>
     <local:WeatherPage Title="Weather"/>
-    <local:WindPage Title="Wind"/>
-    <local:LogbookPage Title="Logbook"/>
+   
+    <local:LogbookPage Title="Log"/>
     <local:LinksPage Title="Links"/>
     <local:ProfilePage Title="Profile"/>
 

@@ -25,6 +25,9 @@ namespace Dropzone.iOS
         {
             Xamarin.Calabash.Start();
             global::Xamarin.Forms.Forms.Init();
+            // xam maps todo
+            Xamarin.FormsMaps.Init();
+
             //ios specific sqlite db location
             string dbName = "jump_db.sqlite";
             string folderPath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal),"..", "Library");

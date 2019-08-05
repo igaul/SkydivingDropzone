@@ -5,11 +5,14 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="Dropzone.DropMap">
-    <ContentPage.Content>
-        <StackLayout>
-            <Label Text="DropMap"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
-    </ContentPage.Content>
+    <!-- 
+    xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps" 
+    -->
+    <!--
+    <maps:Map x:Name="locationsMap" 
+              HorizontalOptions="FillAndExpand"
+              VerticalOptions="FillAndExpand"
+        />
+
+  -->
 </ContentPage>

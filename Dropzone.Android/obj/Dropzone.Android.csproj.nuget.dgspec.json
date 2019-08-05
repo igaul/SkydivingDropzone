@@ -86,6 +86,14 @@
               "target": "Package",
               "version": "[4.1.0.618606, )"
             },
+            "Xamarin.GooglePlayServices.Base": {
+              "target": "Package",
+              "version": "[71.1610.0, )"
+            },
+            "Xamarin.GooglePlayServices.Maps": {
+              "target": "Package",
+              "version": "[71.1600.0, )"
+            },
             "sqlite-net-pcl": {
               "target": "Package",
               "version": "[1.5.231, )"

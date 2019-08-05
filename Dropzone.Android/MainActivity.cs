@@ -23,6 +23,10 @@ namespace Dropzone.Droid
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
 
+            // xam maps
+            // todo maps not reading api key
+           // Xamarin.FormsMaps.Init(this, savedInstanceState);
+
             //android specific sqlite db location
 
             string dbName = "jump_db.sqlite";

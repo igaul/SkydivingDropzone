@@ -8,7 +8,7 @@ namespace Dropzone.Model
     public class PostJump
     {
         const int MAX_LEN = 200;
-
+        // todo retype, collect coords for map view
 
         [PrimaryKey, AutoIncrement]
         public int JumpNumber { get; set; }  // todo display in AddJumpPage ???
