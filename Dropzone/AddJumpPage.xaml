@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Dropzone.AddJumpPage">
+    
+    
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout VerticalOptions="Center">
+                <Label Text="Jump number:"/>
+                <Entry x:Name="jumpNumber" 
+                    Placeholder="Jump Number"/>
+
+                <Label Text="Date:"/>
+                <Entry x:Name="date"
+                       Placeholder="Date"/>
+
+                <Label Text="Place:"/>
+                <Entry x:Name="place"
+                      Placeholder="Place"/>
+
+                <Label Text="Aircraft:"/>
+                <Entry x:Name="aircraft"
+                      Placeholder="Aircraft"/>
+
+                <Label Text="Equipment:"/>
+                <Entry x:Name="equipment"
+                      Placeholder="Equipment"/>
+
+                <Label Text="Altitude:"/>
+                <Entry x:Name="altitude"
+                      Placeholder="Altitude"/>
+
+                <Label Text="Freefall time:"/>
+                <Entry x:Name="freeFallTime"
+                      Placeholder="Freefall time"/>
+
+                <Label Text="Flying type:"/>
+                <Entry x:Name="flyingType"
+                      Placeholder="Flying type"/>
+
+                <Grid VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+                    <Grid.ColumnDefinitions><ColumnDefinition Width="*" /></Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions><RowDefinition Height="*" /></Grid.RowDefinitions>
+                    <Button Text="Save" x:Name="cmdSave"
+                            Clicked="CmdSave_Clicked"
+                            HorizontalOptions="Center"
+                            VerticalOptions="CenterAndExpand" Grid.Row="0" Grid.Column="0" />
+
+                    <Button Text="Cancel" x:Name="cmdCancel"
+                            HorizontalOptions="Center"
+                            VerticalOptions="CenterAndExpand" Grid.Row="0" Grid.Column="1" />
+
+                </Grid>
+
+
+            
+            </StackLayout>
+        </ScrollView>
+       
+    </ContentPage.Content>
+</ContentPage>

@@ -42,6 +42,10 @@
       "frameworks": {
         "monoandroid90": {
           "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
             "Xamarin.Android.Support.Core.Utils": {
               "target": "Package",
               "version": "[28.0.0.1, )"
@@ -72,11 +76,19 @@
             },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.1.0, )"
+              "version": "[1.2.0, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.1.0.483098-pre1, )"
+              "version": "[4.1.0.618606, )"
+            },
+            "Xamarin.Forms.Maps": {
+              "target": "Package",
+              "version": "[4.1.0.618606, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.5.231, )"
             }
           }
         }
@@ -129,11 +141,19 @@
             },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.1.0, )"
+              "version": "[1.2.0, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.1.0.483098-pre1, )"
+              "version": "[4.1.0.618606, )"
+            },
+            "Xamarin.Forms.Maps": {
+              "target": "Package",
+              "version": "[4.1.0.618606, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.5.231, )"
             }
           },
           "imports": [
