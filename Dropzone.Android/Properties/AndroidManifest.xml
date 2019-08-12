@@ -9,13 +9,9 @@
 	<uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
 	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 	<uses-permission android:name="android.permission.INTERNET" />
-  
-  <application android:label="Dropzone.Android">
-    
-    <meta-data android:name="com.google.android.maps.v2.API_KEY" 
-               android:value="MAP_API_KEY" />
-    
-  <!-- Necessary for apps that target Android 9.0 or higher -->
-   <uses-library android:name="org.apache.http.legacy" android:required="false" />
-   </application>
+	<application android:label="Dropzone.Android">
+		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="MAP_API_KEY" />
+		<!-- Necessary for apps that target Android 9.0 or higher -->
+		<uses-library android:name="org.apache.http.legacy" android:required="false" />
+	</application>
 </manifest>

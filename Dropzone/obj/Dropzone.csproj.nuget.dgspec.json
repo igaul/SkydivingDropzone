@@ -1,32 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ianga\\Desktop\\pc\\ossl\\SkydivingDropzone\\Dropzone\\Dropzone.csproj": {}
+    "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ianga\\Desktop\\pc\\ossl\\SkydivingDropzone\\Dropzone\\Dropzone.csproj": {
+    "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ianga\\Desktop\\pc\\ossl\\SkydivingDropzone\\Dropzone\\Dropzone.csproj",
+        "projectUniqueName": "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj",
         "projectName": "Dropzone",
-        "projectPath": "C:\\Users\\ianga\\Desktop\\pc\\ossl\\SkydivingDropzone\\Dropzone\\Dropzone.csproj",
-        "packagesPath": "C:\\Users\\ianga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ianga\\Desktop\\pc\\ossl\\SkydivingDropzone\\Dropzone\\obj\\",
+        "projectPath": "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj",
+        "packagesPath": "/Users/yufei/.nuget/packages/",
+        "outputPath": "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ianga\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/yufei/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

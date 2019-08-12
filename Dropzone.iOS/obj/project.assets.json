@@ -1689,39 +1689,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ianga\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/yufei/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ianga\\Desktop\\pc\\ossl\\SkydivingDropzone\\Dropzone.iOS\\Dropzone.iOS.csproj",
+      "projectUniqueName": "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone.iOS/Dropzone.iOS.csproj",
       "projectName": "Dropzone.iOS",
-      "projectPath": "C:\\Users\\ianga\\Desktop\\pc\\ossl\\SkydivingDropzone\\Dropzone.iOS\\Dropzone.iOS.csproj",
-      "packagesPath": "C:\\Users\\ianga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ianga\\Desktop\\pc\\ossl\\SkydivingDropzone\\Dropzone.iOS\\obj\\",
+      "projectPath": "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone.iOS/Dropzone.iOS.csproj",
+      "packagesPath": "/Users/yufei/.nuget/packages/",
+      "outputPath": "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ianga\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/yufei/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\ianga\\Desktop\\pc\\ossl\\SkydivingDropzone\\Dropzone\\Dropzone.csproj": {
-              "projectPath": "C:\\Users\\ianga\\Desktop\\pc\\ossl\\SkydivingDropzone\\Dropzone\\Dropzone.csproj"
+            "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj": {
+              "projectPath": "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj"
             }
           }
         }

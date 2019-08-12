@@ -17,22 +17,34 @@ namespace Dropzone
         {
             InitializeComponent();
         }
-        int count = 0;
-        void Button_Clicked(object sender, System.EventArgs e)
-        {
-            count++;
-            ((Button)sender).Text = $"You clicked {count} times.";
-        }
 
-        private void LoginButton_Clicked(object sender, EventArgs e)
+        //jump to map page 
+        private void Map_Clicked(object sender, EventArgs e)
         {
-            ((Button)sender).Text = $"Logging in...";
+            //((Button)sender).Text = $"Logging in...";
             // todo log in validation
             // todo post log in page
             // todo log in error page
             // todo set up account page
-            Navigation.PushAsync(new HomePage());
+            Navigation.PushAsync(new DropMap());
             // todo prevent back nav to login page
+        }
+
+        //Jump to weather page 
+        private void Weather_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new WeatherPage());
+        }
+
+        //to logbook page
+        private void Logbook_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new LogbookPage());
+        }
+
+        private void Profile_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new ProfilePage());
         }
     }
 }
