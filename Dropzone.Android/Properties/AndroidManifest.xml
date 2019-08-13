@@ -10,7 +10,7 @@
 	<uses-permission android:name="android.permission.INTERNET" />
 	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 	<application android:label="Dropzone.Android">
-		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyAcjXanoO6yUO_DWZTXd6PTec9ra67IZak" />
+		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="API_key" />
 		<!-- Necessary for apps that target Android 9.0 or higher -->
 		<uses-library android:name="org.apache.http.legacy" android:required="false" />
 	</application>
