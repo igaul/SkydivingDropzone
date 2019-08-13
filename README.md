@@ -40,10 +40,12 @@ software for license terms.
 - [ ] weather lists, saves
 - [ ] wind data
 - [ ] logbook 
-	- [ ] db
-	- [ ] add entry page
-- [ ] edit profile page
+	- [x] db
+	- [x] add entry page
+- [x] edit profile page
 - [ ] useful links (USPA, etc)
 
 
+#### Special thanks
+To the Mono and Xamarin communities and Edward Rosas' Xamarin course
 
