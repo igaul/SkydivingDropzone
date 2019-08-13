@@ -1694,11 +1694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone.iOS/Dropzone.iOS.csproj",
+      "projectUniqueName": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone.iOS/Dropzone.iOS.csproj",
       "projectName": "Dropzone.iOS",
-      "projectPath": "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone.iOS/Dropzone.iOS.csproj",
+      "projectPath": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone.iOS/Dropzone.iOS.csproj",
       "packagesPath": "/Users/yufei/.nuget/packages/",
-      "outputPath": "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone.iOS/obj/",
+      "outputPath": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1713,8 +1713,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj": {
-              "projectPath": "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj"
+            "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj": {
+              "projectPath": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj"
             }
           }
         }

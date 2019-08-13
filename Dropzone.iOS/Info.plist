@@ -31,13 +31,15 @@
 	<string>LaunchScreen</string>
 	<key>CFBundleName</key>
 	<string>Dropzone</string>
-	<key>XSAppIconAssets</key>
-	<string>Assets.xcassets/AppIcon.appiconset</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Allow location</string>
 	<key>Custom Property</key>
 	<string>Dropzone needs location to find dropzones near your location.</string>
 	<key>XSLaunchImageAssets</key>
 	<string>Assets.xcassets/LaunchImage.launchimage</string>
+	<key>XSAppIconAssets</key>
+	<string>Assets.xcassets/AppIcon.appiconset</string>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleLightContent</string>
 </dict>
 </plist>

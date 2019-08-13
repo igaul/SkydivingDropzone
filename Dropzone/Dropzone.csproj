@@ -46,4 +46,7 @@
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="images\background.jpeg" />
+  </ItemGroup>
 </Project>
