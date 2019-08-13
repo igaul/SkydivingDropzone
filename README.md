@@ -12,7 +12,7 @@ current weather and wind conditions at the jumpsite.
 
 ## Install and build
 	Note: You will need Apple hardware to run and test iPhone version. IPhone requires apps be
-	installed from their app store.	There are not current plans to release this app through the
+	installed from their app store.	This app is not currently published through the
 	app store. Though this project is under MIT license, some products involved require accepting
 	other terms and conditions.
 	
@@ -40,9 +40,9 @@ software for license terms.
 - [ ] weather lists, saves
 - [ ] wind data
 - [ ] logbook 
-	- [ ] db
-	- [ ] add entry page
-- [ ] edit profile page
+	- [x] db
+	- [x] add entry page
+- [x] edit profile page
 - [ ] useful links (USPA, etc)
 
 
