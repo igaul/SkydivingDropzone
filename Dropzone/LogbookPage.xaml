@@ -16,4 +16,22 @@
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>
     </ContentPage.Content>
+
+    <ListView x:Name="jumpsListView"
+              HasUnevenRows="True"
+              ItemSelected="Process_JumpSelected">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Orientation="Vertical" Spacing="4" Padding="5" >
+                    <Label Text="{Binding JumpNumber, StringFormat='Jump#:  {0}'}" Margin="10,2,0,0"/>
+                    <Label Text="{Binding Date, StringFormat='Date:  {0}'}" Margin="10,0,0,0" />
+                    <Label Text="{Binding FlyingType, StringFormat='Flying type:  {0}'}" Margin="10,0,0,2" />
+                    </StackLayout>
+                </ViewCell>
+
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+    
 </ContentPage>

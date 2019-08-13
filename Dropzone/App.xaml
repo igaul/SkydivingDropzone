@@ -5,7 +5,7 @@
         <ResourceDictionary>
             <!-- <Color></Color>    -->
             <Style TargetType="Button">
-                <Setter Property="BackgroundColor" Value="Blue"/>
+                <Setter Property="BackgroundColor" Value="#00A6CF"/>
                 <Setter Property="TextColor" Value="WhiteSmoke"/>
             </Style>
   

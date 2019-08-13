@@ -5,45 +5,49 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="Dropzone.AddJumpPage">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Save"
+                     Clicked="CmdSave_Clicked"/>
+    </ContentPage.ToolbarItems>
+    
     <ContentPage.Content>
         <ScrollView>
-            <StackLayout VerticalOptions="Center">
-                <Label Text="Jump number:"/>
-                <Entry Placeholder="Jump Number"/>
+            <StackLayout VerticalOptions="FillAndExpand">
+                <Label Text="Jump number:" Margin="6,5,5,0"/>
+                <Entry x:Name="jumpNumber" Margin="5,0,5,0"
+                    Placeholder="Jump Number"/>
 
-                <Label Text="Date:"/>
-                <Entry Placeholder="Date"/>
+                <Label Text="Date:" Margin="6,3,5,0"/>
+                <Entry x:Name="date" Margin="5,0,5,0"
+                       Placeholder="Date"/>
 
-                <Label Text="Place:"/>
-                <Entry Placeholder="Place"/>
+                <Label Text="Place:" Margin="6,3,5,0"/>
+                <Entry x:Name="place" Margin="5,0,5,0"
+                      Placeholder="Place"/>
 
-                <Label Text="Aircraft:"/>
-                <Entry Placeholder="Aircraft"/>
+                <Label Text="Aircraft:" Margin="6,3,5,0"/>
+                <Entry x:Name="aircraft" Margin="5,0,5,0"
+                      Placeholder="Aircraft"/>
 
-                <Label Text="Equipment:"/>
-                <Entry Placeholder="Equipment"/>
+                <Label Text="Equipment:" Margin="6,3,5,0"/>
+                <Entry x:Name="equipment" Margin="5,0,5,0"
+                      Placeholder="Equipment"/>
 
-                <Label Text="Altitude:"/>
-                <Entry Placeholder="Altitude"/>
+                <Label Text="Altitude:" Margin="6,3,5,0"/>
+                <Entry x:Name="altitude" Margin="5,0,5,0"
+                      Placeholder="Altitude"/>
 
-                <Label Text="Freefall time:"/>
-                <Entry Placeholder="Freefall time"/>
+                <Label Text="Freefall time:" Margin="6,3,5,0"/>
+                <Entry x:Name="freeFallTime" Margin="5,0,5,0"
+                      Placeholder="Freefall time"/>
 
-                <Label Text="Flying type:"/>
-                <Entry Placeholder="Flying type"/>
+                <Label Text="Flying type:" Margin="6,3,5,0"/>
+                <Entry x:Name="flyingType" Margin="5,0,5,10"
+                      Placeholder="Flying type"/>
 
-                <Grid VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
-                    <Grid.ColumnDefinitions><ColumnDefinition Width="*" /></Grid.ColumnDefinitions>
-                    <Grid.RowDefinitions><RowDefinition Height="*" /></Grid.RowDefinitions>
-                    <Button Text="Save" x:Name="cmdSave"
-                            HorizontalOptions="Center"
-                            VerticalOptions="CenterAndExpand" Grid.Row="0" Grid.Column="0" />
-
-                    <Button Text="Cancel" x:Name="cmdCancel"
-                            HorizontalOptions="Center"
-                            VerticalOptions="CenterAndExpand" Grid.Row="0" Grid.Column="1" />
-
-                </Grid>
+                <Button Text="Cancel" Margin="6,10,5,0" Font="Bold,20"
+                        Clicked="CmdCancel_Clicked"/>
 
 
             

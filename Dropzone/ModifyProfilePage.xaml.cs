@@ -16,5 +16,11 @@ namespace Dropzone
         {
             InitializeComponent();
         }
+        private void Save_Clicked(object sender, EventArgs e)
+        {
+            
+            // reload logbook page
+            Navigation.PopAsync();
+        }
     }
 }
