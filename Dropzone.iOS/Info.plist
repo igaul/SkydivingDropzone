@@ -36,5 +36,7 @@
 	<string>Assets.xcassets/AppIcon.appiconset</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Allow location</string>
+	<key>Custom Property</key>
+	<string>Dropzone needs location to find dropzones near your location.</string>
 </dict>
 </plist>

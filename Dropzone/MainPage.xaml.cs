@@ -21,13 +21,8 @@ namespace Dropzone
         //jump to map page 
         private void Map_Clicked(object sender, EventArgs e)
         {
-            //((Button)sender).Text = $"Logging in...";
-            // todo log in validation
-            // todo post log in page
-            // todo log in error page
-            // todo set up account page
+
             Navigation.PushAsync(new DropMap());
-            // todo prevent back nav to login page
         }
 
         //Jump to weather page 
