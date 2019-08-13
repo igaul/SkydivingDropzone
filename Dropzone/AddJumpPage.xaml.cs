@@ -14,6 +14,8 @@ namespace Dropzone
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class AddJumpPage : ContentPage
     {
+
+
         public AddJumpPage()
         {
             InitializeComponent();

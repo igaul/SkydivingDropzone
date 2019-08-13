@@ -107,8 +107,6 @@
       <Visible>false</Visible>
     </ImageAsset>
     <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\Contents.json" />
-    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\background.png" />
-    <ImageAsset Include="Assets.xcassets\LaunchImage.launchimage\background-3.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\parachute.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\parachute-1.png" />
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\parachute-2.png" />

@@ -9,35 +9,43 @@
 
     <ScrollView>
         <StackLayout VerticalOptions="FillAndExpand">
-            <Label Text="Jump number:" Margin="6,5,5,0"/>
+            <Label Text="Jump number:" Margin="6,5,5,0"
+                   Font="Bold"/>
             <Entry x:Name="jumpNumber" Margin="5,0,5,0"
                    Placeholder="Jump Number"/>
 
-            <Label Text="Date:" Margin="6,3,5,0"/>
+            <Label Text="Date:" Margin="6,3,5,0"
+                   Font="Bold"/>
             <Entry x:Name="date" Margin="5,0,5,0"
                     Placeholder="Date"/>
 
-            <Label Text="Place:" Margin="6,3,5,0"/>
+            <Label Text="Place:" Margin="6,3,5,0"
+                   Font="Bold"/>
             <Entry x:Name="place" Margin="5,0,5,0"
                     Placeholder="Place"/>
 
-            <Label Text="Aircraft:" Margin="6,3,5,0"/>
+            <Label Text="Aircraft:" Margin="6,3,5,0"
+                   Font="Bold"/>
             <Entry x:Name="aircraft" Margin="5,0,5,0"
                     Placeholder="Aircraft"/>
 
-            <Label Text="Equipment:" Margin="6,3,5,0"/>
+            <Label Text="Equipment:" Margin="6,3,5,0"
+                   Font="Bold"/>
             <Entry x:Name="equipment" Margin="5,0,5,0"
                     Placeholder="Equipment"/>
 
-            <Label Text="Altitude:" Margin="6,3,5,0"/>
+            <Label Text="Altitude:" Margin="6,3,5,0"
+                   Font="Bold"/>
             <Entry x:Name="altitude" Margin="5,0,5,0"
                     Placeholder="Altitude"/>
 
-            <Label Text="Freefall time:" Margin="6,3,5,0"/>
+            <Label Text="Freefall time:" Margin="6,3,5,0"
+                   Font="Bold"/>
             <Entry x:Name="freeFallTime" Margin="5,0,5,0"
                     Placeholder="Freefall time"/>
 
-            <Label Text="Flying type:" Margin="6,3,5,0"/>
+            <Label Text="Flying type:" Margin="6,3,5,0"
+                   Font="Bold"/>
             <Entry x:Name="flyingType" Margin="5,0,5,10"
                     Placeholder="Flying type"/>
 
