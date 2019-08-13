@@ -46,4 +46,6 @@ software for license terms.
 - [ ] useful links (USPA, etc)
 
 
+#### Special thanks
+To the Mono and Xamarin communities and Edward Rosas' Xamarin course
 
