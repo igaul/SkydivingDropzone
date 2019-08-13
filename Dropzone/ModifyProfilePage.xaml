@@ -5,11 +5,23 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="Dropzone.ModifyProfilePage">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Save"
+                     Clicked="Save_Clicked"/>
+    </ContentPage.ToolbarItems>
+
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Change profile"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+        <TableView Intent="Form">
+            <TableRoot>
+                <TableSection Title=" ">
+                    <EntryCell Label="Name "/>
+                    <EntryCell Label="Email: "/>
+                    <EntryCell Label="USPA#: "/>
+                    <EntryCell Label="Total Jumps: "/>
+
+                </TableSection>
+            </TableRoot>
+        </TableView>
     </ContentPage.Content>
 </ContentPage>
