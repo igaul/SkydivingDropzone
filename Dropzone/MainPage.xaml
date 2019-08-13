@@ -4,15 +4,23 @@
         <StackLayout VerticalOptions="Center"
                  Margin="20">
             <Label Text="Welcome to DropZone!"
+                   Font="Bold,18"
                    HorizontalOptions="Center"
                    Margin="25"/>
             <Button Text="Map" Margin="25, 5"
+                    Font="Bold,20"
                     Clicked="Map_Clicked"/>
+
             <Button Text="Weather" Margin="25, 5"
+                    Font="Bold,20"
                     Clicked="Weather_Clicked"/>
+
             <Button Text="Logbook" Margin="25, 5"
+                    Font="Bold,20"
                     Clicked="Logbook_Clicked"/>
+
             <Button Text="Profile" Margin="25, 5"
+                    Font="Bold,20"
                     Clicked="Profile_Clicked"/>
         </StackLayout>
     </ScrollView>

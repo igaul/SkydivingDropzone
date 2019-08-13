@@ -45,7 +45,12 @@ namespace Dropzone
                 }
             }
             // reload logbook page
-            Navigation.PushAsync(new LogbookPage());
+            Navigation.PopAsync();
+        }
+
+        private void CmdCancel_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PopAsync();
         }
     }
 }

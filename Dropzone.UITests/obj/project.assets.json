@@ -157,11 +157,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone.UITests/Dropzone.UITests.csproj",
+      "projectUniqueName": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone.UITests/Dropzone.UITests.csproj",
       "projectName": "Dropzone.UITests",
-      "projectPath": "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone.UITests/Dropzone.UITests.csproj",
+      "projectPath": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone.UITests/Dropzone.UITests.csproj",
       "packagesPath": "/Users/yufei/.nuget/packages/",
-      "outputPath": "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone.UITests/obj/",
+      "outputPath": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone.UITests/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

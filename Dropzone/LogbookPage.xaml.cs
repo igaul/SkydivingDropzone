@@ -23,7 +23,8 @@ namespace Dropzone
         {
             base.OnAppearing();
 
-            using (SQLiteConnection connection = new SQLiteConnection(App.DatabaseLocation)){
+            using (SQLiteConnection connection = new SQLiteConnection(App.DatabaseLocation))
+            {
                 connection.CreateTable<PostJump>();
                 var jumps = connection.Table<PostJump>().ToList();
                 jumpsListView.ItemsSource = jumps;

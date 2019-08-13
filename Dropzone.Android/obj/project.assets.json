@@ -2556,11 +2556,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone.Android/Dropzone.Android.csproj",
+      "projectUniqueName": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone.Android/Dropzone.Android.csproj",
       "projectName": "Dropzone.Android",
-      "projectPath": "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone.Android/Dropzone.Android.csproj",
+      "projectPath": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone.Android/Dropzone.Android.csproj",
       "packagesPath": "/Users/yufei/.nuget/packages/",
-      "outputPath": "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone.Android/obj/",
+      "outputPath": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -2575,8 +2575,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj": {
-              "projectPath": "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj"
+            "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj": {
+              "projectPath": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj"
             }
           }
         }

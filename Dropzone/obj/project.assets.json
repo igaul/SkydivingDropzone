@@ -737,11 +737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj",
+      "projectUniqueName": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj",
       "projectName": "Dropzone",
-      "projectPath": "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj",
+      "projectPath": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj",
       "packagesPath": "/Users/yufei/.nuget/packages/",
-      "outputPath": "/Users/yufei/Documents/CS461P/SkydivingDropzone/Dropzone/obj/",
+      "outputPath": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
