@@ -44,6 +44,15 @@ software for license terms.
 	- [x] add entry page
 - [x] edit profile page
 - [ ] useful links (USPA, etc)
+- [ ] points of interest with pop out information window 
+- [ ] map saving
+- [ ] map zoom levels
+- [ ] Gear/aircraft dropdown picker
+- [ ] data export
+- [ ] signatures
+- [ ] Autofill suggested
+- [ ] ...
+- [ ] Deploy to Apple and Play stores
 
 
 #### Special thanks
