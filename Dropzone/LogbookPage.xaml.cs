@@ -35,5 +35,15 @@ namespace Dropzone
             Navigation.PushAsync(new AddJumpPage());
 
         }
+
+        void Process_JumpSelected(object sender, Xamarin.Forms.SelectedItemChangedEventArgs e)
+        {
+            var selectedJump = jumpsListView.SelectedItem as PostJump;
+
+            if(selectedJump != null)
+            {
+                Navigation.PushAsync(new JumpDetailPage(selectedJump));
+            }
+        }
     }
 }

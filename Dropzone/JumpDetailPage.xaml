@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Dropzone.JumpDetailPage">
+
+    <StackLayout  VerticalOptions="CenterAndExpand">
+                <Label Text="Jump number:"/>
+                <Entry x:Name="jumpNumber"/>
+
+                <Label Text="Date:"/>
+                <Entry x:Name="date"
+                       Placeholder="Date"/>
+
+                <Label Text="Place:"/>
+                <Entry x:Name="place"
+                      Placeholder="Place"/>
+
+                <Label Text="Aircraft:"/>
+                <Entry x:Name="aircraft"
+                      Placeholder="Aircraft"/>
+
+                <Label Text="Equipment:"/>
+                <Entry x:Name="equipment"
+                      Placeholder="Equipment"/>
+
+                <Label Text="Altitude:"/>
+                <Entry x:Name="altitude"
+                      Placeholder="Altitude"/>
+
+                <Label Text="Freefall time:"/>
+                <Entry x:Name="freeFallTime"
+                      Placeholder="Freefall time"/>
+
+                <Label Text="Flying type:"/>
+                <Entry x:Name="flyingType"
+                      Placeholder="Flying type"/>
+
+        <Button Text="Update"
+                x:Name="updateButton"
+                Clicked="UpdateButton_Clicked"/>
+        <Button Text="Delete"
+                x:Name="deleteButton"
+                Clicked="DeleteButton_Clicked"/>
+    </StackLayout>
+    
+
+</ContentPage>
