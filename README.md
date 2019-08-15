@@ -9,6 +9,16 @@ aircraft profiles along with logging jump data on their phone and export the log
 In additon to the logbook, users can also find nearby skydiving dropzones and view
 current weather and wind conditions at the jumpsite.
 
+## Examples
+
+![data screenshot](https://github.com/YufeiT/SkydivingDropzone/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%20X%E2%95%A9%C3%87%20-%202019-08-13%20at%2007.11.56.png)
+
+	![data screenshot](ss150.png)
+	![data screenshot](ss150.png)
+	![data screenshot](ss150.png)
+	![data screenshot](ss150.png)
+
+
 
 ## Install and build
 	Note: You will need Apple hardware to run and test iPhone version. IPhone requires apps be
@@ -26,7 +36,7 @@ Building this project is recommended using [Visual Studio](https://visualstudio.
 
 
 ## Tests
-(need to be updated)
+Currently passing. Need refactor for next state. Using Nunit.
 
 ## License
 
