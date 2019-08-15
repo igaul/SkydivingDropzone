@@ -11,12 +11,14 @@ current weather and wind conditions at the jumpsite.
 
 ## Examples
 
-![data screenshot](https://github.com/YufeiT/SkydivingDropzone/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%20X%E2%95%A9%C3%87%20-%202019-08-13%20at%2007.11.56.png)
-
-	![data screenshot](ss150.png)
-	![data screenshot](ss150.png)
-	![data screenshot](ss150.png)
-	![data screenshot](ss150.png)
+![data screenshot](https://github.com/YufeiT/SkydivingDropzone/blob/master/screenshots/ss13%20at%2007.11.58.png)
+![data screenshot](https://github.com/YufeiT/SkydivingDropzone/blob/master/screenshots/ss13%20at%2007.12.03.png)
+![data screenshot](https://github.com/YufeiT/SkydivingDropzone/blob/master/screenshots/ss13%20at%2007.12.41.png)
+![data screenshot](https://github.com/YufeiT/SkydivingDropzone/blob/master/screenshots/ss13%20at%2007.13.23.png)
+![data screenshot](https://github.com/YufeiT/SkydivingDropzone/blob/master/screenshots/ss13%20at%2007.13.35.png)
+![data screenshot](https://github.com/YufeiT/SkydivingDropzone/blob/master/screenshots/ss13%20at%2007.14.04.png)
+![data screenshot](https://github.com/YufeiT/SkydivingDropzone/blob/master/screenshots/ss13%20at%2007.14.11.png)
+![data screenshot](https://github.com/YufeiT/SkydivingDropzone/blob/master/screenshots/ss13%20at%2007.14.54.png)
 
 
 
