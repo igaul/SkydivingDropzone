@@ -26,10 +26,10 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "sqlite-net-pcl/1.5.231": {
+      "sqlite-net-pcl/1.6.292": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.bundle_green": "1.1.11"
+          "SQLitePCLRaw.bundle_green": "1.1.13"
         },
         "compile": {
           "lib/netstandard1.1/SQLite-net.dll": {}
@@ -38,11 +38,11 @@
           "lib/netstandard1.1/SQLite-net.dll": {}
         }
       },
-      "SQLitePCLRaw.bundle_green/1.1.11": {
+      "SQLitePCLRaw.bundle_green/1.1.13": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.core": "1.1.11",
-          "SQLitePCLRaw.provider.sqlite3.ios_unified": "1.1.11"
+          "SQLitePCLRaw.core": "1.1.13",
+          "SQLitePCLRaw.provider.sqlite3.ios_unified": "1.1.13"
         },
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.batteries_green.dll": {},
@@ -53,7 +53,7 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll": {}
         }
       },
-      "SQLitePCLRaw.core/1.1.11": {
+      "SQLitePCLRaw.core/1.1.13": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.core.dll": {}
@@ -62,10 +62,10 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.core.dll": {}
         }
       },
-      "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.11": {
+      "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.13": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.core": "1.1.11"
+          "SQLitePCLRaw.core": "1.1.13"
         },
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll": {}
@@ -98,7 +98,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/4.1.0.673156": {
+      "Xamarin.Forms/4.2.0.815419": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -249,9 +249,9 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Essentials": "1.2.0",
-          "Xamarin.Forms": "4.1.0.673156",
+          "Xamarin.Forms": "4.2.0.815419",
           "Xamarin.Forms.Maps": "4.1.0.673156",
-          "sqlite-net-pcl": "1.5.231"
+          "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
           "bin/placeholder/Dropzone.dll": {}
@@ -286,10 +286,10 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "sqlite-net-pcl/1.5.231": {
+      "sqlite-net-pcl/1.6.292": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.bundle_green": "1.1.11"
+          "SQLitePCLRaw.bundle_green": "1.1.13"
         },
         "compile": {
           "lib/netstandard1.1/SQLite-net.dll": {}
@@ -298,11 +298,11 @@
           "lib/netstandard1.1/SQLite-net.dll": {}
         }
       },
-      "SQLitePCLRaw.bundle_green/1.1.11": {
+      "SQLitePCLRaw.bundle_green/1.1.13": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.core": "1.1.11",
-          "SQLitePCLRaw.provider.sqlite3.ios_unified": "1.1.11"
+          "SQLitePCLRaw.core": "1.1.13",
+          "SQLitePCLRaw.provider.sqlite3.ios_unified": "1.1.13"
         },
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.batteries_green.dll": {},
@@ -313,7 +313,7 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll": {}
         }
       },
-      "SQLitePCLRaw.core/1.1.11": {
+      "SQLitePCLRaw.core/1.1.13": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.core.dll": {}
@@ -322,10 +322,10 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.core.dll": {}
         }
       },
-      "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.11": {
+      "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.13": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.core": "1.1.11"
+          "SQLitePCLRaw.core": "1.1.13"
         },
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll": {}
@@ -358,7 +358,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/4.1.0.673156": {
+      "Xamarin.Forms/4.2.0.815419": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -509,9 +509,9 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Essentials": "1.2.0",
-          "Xamarin.Forms": "4.1.0.673156",
+          "Xamarin.Forms": "4.2.0.815419",
           "Xamarin.Forms.Maps": "4.1.0.673156",
-          "sqlite-net-pcl": "1.5.231"
+          "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
           "bin/placeholder/Dropzone.dll": {}
@@ -546,10 +546,10 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "sqlite-net-pcl/1.5.231": {
+      "sqlite-net-pcl/1.6.292": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.bundle_green": "1.1.11"
+          "SQLitePCLRaw.bundle_green": "1.1.13"
         },
         "compile": {
           "lib/netstandard1.1/SQLite-net.dll": {}
@@ -558,11 +558,11 @@
           "lib/netstandard1.1/SQLite-net.dll": {}
         }
       },
-      "SQLitePCLRaw.bundle_green/1.1.11": {
+      "SQLitePCLRaw.bundle_green/1.1.13": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.core": "1.1.11",
-          "SQLitePCLRaw.provider.sqlite3.ios_unified": "1.1.11"
+          "SQLitePCLRaw.core": "1.1.13",
+          "SQLitePCLRaw.provider.sqlite3.ios_unified": "1.1.13"
         },
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.batteries_green.dll": {},
@@ -573,7 +573,7 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll": {}
         }
       },
-      "SQLitePCLRaw.core/1.1.11": {
+      "SQLitePCLRaw.core/1.1.13": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.core.dll": {}
@@ -582,10 +582,10 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.core.dll": {}
         }
       },
-      "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.11": {
+      "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.13": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.core": "1.1.11"
+          "SQLitePCLRaw.core": "1.1.13"
         },
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll": {}
@@ -618,7 +618,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/4.1.0.673156": {
+      "Xamarin.Forms/4.2.0.815419": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -769,9 +769,9 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Essentials": "1.2.0",
-          "Xamarin.Forms": "4.1.0.673156",
+          "Xamarin.Forms": "4.2.0.815419",
           "Xamarin.Forms.Maps": "4.1.0.673156",
-          "sqlite-net-pcl": "1.5.231"
+          "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
           "bin/placeholder/Dropzone.dll": {}
@@ -806,10 +806,10 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "sqlite-net-pcl/1.5.231": {
+      "sqlite-net-pcl/1.6.292": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.bundle_green": "1.1.11"
+          "SQLitePCLRaw.bundle_green": "1.1.13"
         },
         "compile": {
           "lib/netstandard1.1/SQLite-net.dll": {}
@@ -818,11 +818,11 @@
           "lib/netstandard1.1/SQLite-net.dll": {}
         }
       },
-      "SQLitePCLRaw.bundle_green/1.1.11": {
+      "SQLitePCLRaw.bundle_green/1.1.13": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.core": "1.1.11",
-          "SQLitePCLRaw.provider.sqlite3.ios_unified": "1.1.11"
+          "SQLitePCLRaw.core": "1.1.13",
+          "SQLitePCLRaw.provider.sqlite3.ios_unified": "1.1.13"
         },
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.batteries_green.dll": {},
@@ -833,7 +833,7 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll": {}
         }
       },
-      "SQLitePCLRaw.core/1.1.11": {
+      "SQLitePCLRaw.core/1.1.13": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.core.dll": {}
@@ -842,10 +842,10 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.core.dll": {}
         }
       },
-      "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.11": {
+      "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.13": {
         "type": "package",
         "dependencies": {
-          "SQLitePCLRaw.core": "1.1.11"
+          "SQLitePCLRaw.core": "1.1.13"
         },
         "compile": {
           "lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll": {}
@@ -878,7 +878,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/4.1.0.673156": {
+      "Xamarin.Forms/4.2.0.815419": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -1029,9 +1029,9 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Essentials": "1.2.0",
-          "Xamarin.Forms": "4.1.0.673156",
+          "Xamarin.Forms": "4.2.0.815419",
           "Xamarin.Forms.Maps": "4.1.0.673156",
-          "sqlite-net-pcl": "1.5.231"
+          "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
           "bin/placeholder/Dropzone.dll": {}
@@ -1187,10 +1187,10 @@
         "netstandard.library.nuspec"
       ]
     },
-    "sqlite-net-pcl/1.5.231": {
-      "sha512": "B9jScvqkishSMkpa9Mc4Q85LTHxRTzcUXZx9EQqgrvdz7MFEDHfpiPcKdjy1qXHdmHttEXfY4h6gu4FlgWP2Sw==",
+    "sqlite-net-pcl/1.6.292": {
+      "sha512": "TZPs206/ZZXhDAgCzxE5Dmw1enkRmtpd1RKt+dLJA6Kvml4RxwkasRs4js2kijtGxik1SLCs39rh9nl9YFwrYg==",
       "type": "package",
-      "path": "sqlite-net-pcl/1.5.231",
+      "path": "sqlite-net-pcl/1.6.292",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1199,14 +1199,14 @@
         "lib/netstandard1.1/SQLite-net.xml",
         "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/SQLite-net.dll",
         "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/SQLite-net.xml",
-        "sqlite-net-pcl.1.5.231.nupkg.sha512",
+        "sqlite-net-pcl.1.6.292.nupkg.sha512",
         "sqlite-net-pcl.nuspec"
       ]
     },
-    "SQLitePCLRaw.bundle_green/1.1.11": {
-      "sha512": "Hqp8IF/RLjbypkLm+t+1RqAX8EKuWEkj7wkLXplfENQoPnE127cvTmaDvaQKtt7a5QsD/HNjFDr1z5f9q2wdPg==",
+    "SQLitePCLRaw.bundle_green/1.1.13": {
+      "sha512": "E0Hm/XTfleE/LlrRZVucB1dQqDlIDPgqvkFymbGqMO7bSaoB6R2X5Cgzq/RDxBFSzHjpzet2Tp5Kar8faLSZ+Q==",
       "type": "package",
-      "path": "sqlitepclraw.bundle_green/1.1.11",
+      "path": "sqlitepclraw.bundle_green/1.1.13",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1246,14 +1246,14 @@
         "lib/wp8/_._",
         "lib/wpa81/SQLitePCLRaw.batteries_green.dll",
         "lib/wpa81/SQLitePCLRaw.batteries_v2.dll",
-        "sqlitepclraw.bundle_green.1.1.11.nupkg.sha512",
+        "sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
         "sqlitepclraw.bundle_green.nuspec"
       ]
     },
-    "SQLitePCLRaw.core/1.1.11": {
-      "sha512": "QT17CyQAQIbTCu6pW5+uVA8BXqRzquiDI1tr5Un6c1YZcQydPmGPuYYng9xMs2UHUDYHbTu+JDkp55WR+qo9bQ==",
+    "SQLitePCLRaw.core/1.1.13": {
+      "sha512": "I8Q9qL1urPegoyZ5uI32lgqsxl8aPRZAyVBJbO+0T/zlGz/LBc8vhRVyDyCOU9LWWpV8dYpT0nCpuLv1ua6zkA==",
       "type": "package",
-      "path": "sqlitepclraw.core/1.1.11",
+      "path": "sqlitepclraw.core/1.1.13",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1272,19 +1272,19 @@
         "lib/win8/SQLitePCLRaw.core.dll",
         "lib/win81/SQLitePCLRaw.core.dll",
         "lib/wpa81/SQLitePCLRaw.core.dll",
-        "sqlitepclraw.core.1.1.11.nupkg.sha512",
+        "sqlitepclraw.core.1.1.13.nupkg.sha512",
         "sqlitepclraw.core.nuspec"
       ]
     },
-    "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.11": {
-      "sha512": "hWk/vgFthsTedjorVFNErd5xk0x0UtlYr/ndmDUYhAcA9Y9g0IJXBMn1Z2QYsLMlvE6Qj5yVvjfkUOARhXezQw==",
+    "SQLitePCLRaw.provider.sqlite3.ios_unified/1.1.13": {
+      "sha512": "8+kMnKUM+BVuRyg1LhVYYQCRR8LAQb9UCvXO+JcS4WMTKPeX+JCWlNPuej9lPw67T8OZqQ3AAlLr1hc4dsyykQ==",
       "type": "package",
-      "path": "sqlitepclraw.provider.sqlite3.ios_unified/1.1.11",
+      "path": "sqlitepclraw.provider.sqlite3.ios_unified/1.1.13",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll",
-        "sqlitepclraw.provider.sqlite3.ios_unified.1.1.11.nupkg.sha512",
+        "sqlitepclraw.provider.sqlite3.ios_unified.1.1.13.nupkg.sha512",
         "sqlitepclraw.provider.sqlite3.ios_unified.nuspec"
       ]
     },
@@ -1378,10 +1378,10 @@
         "xamarin.essentials.nuspec"
       ]
     },
-    "Xamarin.Forms/4.1.0.673156": {
-      "sha512": "9NrnfD7kzGq/qjMOrdkTMxtZBOakwo5kEcay8Z6Iwv88bx11J/CDtDVJ0a5IPzfRwRq9XCcrMj3nu9DLQy6ZdA==",
+    "Xamarin.Forms/4.2.0.815419": {
+      "sha512": "GrKE8TBjR5chew92HBcoaTuqwo6Jnpp0djVaN4/wtGQW/URZAt3Eb3zF8rQ6jRA2WKuTKm3wyPTCPrB2PekIfQ==",
       "type": "package",
-      "path": "xamarin.forms/4.1.0.673156",
+      "path": "xamarin.forms/4.2.0.815419",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1601,13 +1601,13 @@
         "lib/uap10.0/Xamarin.Forms.Platform.UAP.pdb",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP.pri",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/AutoSuggestStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/CollectionView/ItemsViewStyles.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsCheckBoxStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsCommandBarStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsEmbeddedPageWrapper.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsFlyout.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsProgressBarStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsTextBoxStyle.xbf",
-        "lib/uap10.0/Xamarin.Forms.Platform.UAP/Items/ItemsViewStyles.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/MasterDetailControlStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/PageControlStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/Properties/Xamarin.Forms.Platform.UAP.rd.xml",
@@ -1620,7 +1620,7 @@
         "lib/uap10.0/Xamarin.Forms.Xaml.dll",
         "lib/uap10.0/Xamarin.Forms.Xaml.pdb",
         "lib/uap10.0/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.4.1.0.673156.nupkg.sha512",
+        "xamarin.forms.4.2.0.815419.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     },
@@ -1682,39 +1682,46 @@
       "Dropzone >= 1.0.0",
       "NETStandard.Library >= 2.0.3",
       "Xamarin.Essentials >= 1.2.0",
-      "Xamarin.Forms >= 4.1.0.673156",
+      "Xamarin.Forms >= 4.2.0.815419",
       "Xamarin.Forms.Maps >= 4.1.0.673156",
       "Xamarin.TestCloud.Agent >= 0.21.8",
-      "sqlite-net-pcl >= 1.5.231"
+      "sqlite-net-pcl >= 1.6.292"
     ]
   },
   "packageFolders": {
-    "/Users/yufei/.nuget/packages/": {}
+    "C:\\Users\\ianga\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone.iOS/Dropzone.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone.iOS\\Dropzone.iOS.csproj",
       "projectName": "Dropzone.iOS",
-      "projectPath": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone.iOS/Dropzone.iOS.csproj",
-      "packagesPath": "/Users/yufei/.nuget/packages/",
-      "outputPath": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone.iOS/obj/",
+      "projectPath": "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone.iOS\\Dropzone.iOS.csproj",
+      "packagesPath": "C:\\Users\\ianga\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/Users/yufei/.config/NuGet/NuGet.Config"
+        "C:\\Users\\ianga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj": {
-              "projectPath": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj"
+            "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone\\Dropzone.csproj": {
+              "projectPath": "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone\\Dropzone.csproj"
             }
           }
         }
@@ -1733,7 +1740,7 @@
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[4.1.0.673156, )"
+            "version": "[4.2.0.815419, )"
           },
           "Xamarin.Forms.Maps": {
             "target": "Package",
@@ -1745,7 +1752,7 @@
           },
           "sqlite-net-pcl": {
             "target": "Package",
-            "version": "[1.5.231, )"
+            "version": "[1.6.292, )"
           }
         }
       }

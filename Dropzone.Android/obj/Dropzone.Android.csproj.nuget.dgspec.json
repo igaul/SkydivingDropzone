@@ -1,33 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone.Android/Dropzone.Android.csproj": {}
+    "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone.Android\\Dropzone.Android.csproj": {}
   },
   "projects": {
-    "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone.Android/Dropzone.Android.csproj": {
+    "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone.Android\\Dropzone.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone.Android/Dropzone.Android.csproj",
+        "projectUniqueName": "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone.Android\\Dropzone.Android.csproj",
         "projectName": "Dropzone.Android",
-        "projectPath": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone.Android/Dropzone.Android.csproj",
-        "packagesPath": "/Users/yufei/.nuget/packages/",
-        "outputPath": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone.Android/obj/",
+        "projectPath": "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone.Android\\Dropzone.Android.csproj",
+        "packagesPath": "C:\\Users\\ianga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/yufei/.config/NuGet/NuGet.Config"
+          "C:\\Users\\ianga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "monoandroid90"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj": {
-                "projectPath": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj"
+              "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone\\Dropzone.csproj": {
+                "projectPath": "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone\\Dropzone.csproj"
               }
             }
           }
@@ -40,33 +46,37 @@
               "target": "Package",
               "version": "[2.0.3, )"
             },
+            "Xamarin.Android.Support.Annotations": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
             "Xamarin.Android.Support.Core.Utils": {
               "target": "Package",
-              "version": "[28.0.0.1, )"
+              "version": "[28.0.0.3, )"
             },
             "Xamarin.Android.Support.CustomTabs": {
               "target": "Package",
-              "version": "[28.0.0.1, )"
+              "version": "[28.0.0.3, )"
             },
             "Xamarin.Android.Support.Design": {
               "target": "Package",
-              "version": "[28.0.0.1, )"
+              "version": "[28.0.0.3, )"
             },
             "Xamarin.Android.Support.v4": {
               "target": "Package",
-              "version": "[28.0.0.1, )"
+              "version": "[28.0.0.3, )"
             },
             "Xamarin.Android.Support.v7.AppCompat": {
               "target": "Package",
-              "version": "[28.0.0.1, )"
+              "version": "[28.0.0.3, )"
             },
             "Xamarin.Android.Support.v7.CardView": {
               "target": "Package",
-              "version": "[28.0.0.1, )"
+              "version": "[28.0.0.3, )"
             },
             "Xamarin.Android.Support.v7.MediaRouter": {
               "target": "Package",
-              "version": "[28.0.0.1, )"
+              "version": "[28.0.0.3, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",
@@ -74,7 +84,7 @@
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.1.0.673156, )"
+              "version": "[4.2.0.815419, )"
             },
             "Xamarin.Forms.Maps": {
               "target": "Package",
@@ -90,31 +100,35 @@
             },
             "sqlite-net-pcl": {
               "target": "Package",
-              "version": "[1.5.231, )"
+              "version": "[1.6.292, )"
             }
           }
         }
       }
     },
-    "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj": {
+    "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone\\Dropzone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj",
+        "projectUniqueName": "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone\\Dropzone.csproj",
         "projectName": "Dropzone",
-        "projectPath": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone/Dropzone.csproj",
-        "packagesPath": "/Users/yufei/.nuget/packages/",
-        "outputPath": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone/obj/",
+        "projectPath": "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone\\Dropzone.csproj",
+        "packagesPath": "C:\\Users\\ianga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/yufei/.config/NuGet/NuGet.Config"
+          "C:\\Users\\ianga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -143,7 +157,7 @@
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.1.0.673156, )"
+              "version": "[4.2.0.815419, )"
             },
             "Xamarin.Forms.Maps": {
               "target": "Package",
@@ -151,7 +165,7 @@
             },
             "sqlite-net-pcl": {
               "target": "Package",
-              "version": "[1.5.231, )"
+              "version": "[1.6.292, )"
             }
           },
           "imports": [

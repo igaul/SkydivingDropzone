@@ -2,196 +2,156 @@
   "version": 3,
   "targets": {
     ".NETFramework,Version=v4.6.1": {
-      "NUnit/3.12.0": {
-        "type": "package",
+      "Dropzone.Android/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
         "compile": {
-          "lib/net45/nunit.framework.dll": {}
+          "bin/placeholder/Dropzone.Android.dll": {}
         },
         "runtime": {
-          "lib/net45/nunit.framework.dll": {}
-        },
-        "build": {
-          "build/NUnit.props": {}
+          "bin/placeholder/Dropzone.Android.dll": {}
         }
       },
-      "Xamarin.UITest/3.0.3": {
-        "type": "package",
+      "Dropzone.iOS/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
         "compile": {
-          "lib/net45/Xamarin.UITest.dll": {}
+          "bin/placeholder/Dropzone.iOS.dll": {}
         },
         "runtime": {
-          "lib/net45/Xamarin.UITest.dll": {}
+          "bin/placeholder/Dropzone.iOS.dll": {}
         }
       }
     },
     ".NETFramework,Version=v4.6.1/win": {
-      "NUnit/3.12.0": {
-        "type": "package",
+      "Dropzone.Android/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
         "compile": {
-          "lib/net45/nunit.framework.dll": {}
+          "bin/placeholder/Dropzone.Android.dll": {}
         },
         "runtime": {
-          "lib/net45/nunit.framework.dll": {}
-        },
-        "build": {
-          "build/NUnit.props": {}
+          "bin/placeholder/Dropzone.Android.dll": {}
         }
       },
-      "Xamarin.UITest/3.0.3": {
-        "type": "package",
+      "Dropzone.iOS/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
         "compile": {
-          "lib/net45/Xamarin.UITest.dll": {}
+          "bin/placeholder/Dropzone.iOS.dll": {}
         },
         "runtime": {
-          "lib/net45/Xamarin.UITest.dll": {}
+          "bin/placeholder/Dropzone.iOS.dll": {}
         }
       }
     },
     ".NETFramework,Version=v4.6.1/win-x64": {
-      "NUnit/3.12.0": {
-        "type": "package",
+      "Dropzone.Android/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
         "compile": {
-          "lib/net45/nunit.framework.dll": {}
+          "bin/placeholder/Dropzone.Android.dll": {}
         },
         "runtime": {
-          "lib/net45/nunit.framework.dll": {}
-        },
-        "build": {
-          "build/NUnit.props": {}
+          "bin/placeholder/Dropzone.Android.dll": {}
         }
       },
-      "Xamarin.UITest/3.0.3": {
-        "type": "package",
+      "Dropzone.iOS/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
         "compile": {
-          "lib/net45/Xamarin.UITest.dll": {}
+          "bin/placeholder/Dropzone.iOS.dll": {}
         },
         "runtime": {
-          "lib/net45/Xamarin.UITest.dll": {}
+          "bin/placeholder/Dropzone.iOS.dll": {}
         }
       }
     },
     ".NETFramework,Version=v4.6.1/win-x86": {
-      "NUnit/3.12.0": {
-        "type": "package",
+      "Dropzone.Android/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
         "compile": {
-          "lib/net45/nunit.framework.dll": {}
+          "bin/placeholder/Dropzone.Android.dll": {}
         },
         "runtime": {
-          "lib/net45/nunit.framework.dll": {}
-        },
-        "build": {
-          "build/NUnit.props": {}
+          "bin/placeholder/Dropzone.Android.dll": {}
         }
       },
-      "Xamarin.UITest/3.0.3": {
-        "type": "package",
+      "Dropzone.iOS/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
         "compile": {
-          "lib/net45/Xamarin.UITest.dll": {}
+          "bin/placeholder/Dropzone.iOS.dll": {}
         },
         "runtime": {
-          "lib/net45/Xamarin.UITest.dll": {}
+          "bin/placeholder/Dropzone.iOS.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "NUnit/3.12.0": {
-      "sha512": "3oJTrcUcT9wmweBUwgUf0f1XIYy6RZq2ziV+RM95HMKAJGsHPN2i3MKK1dAPvDPMRLz799Llj4eyu/STB9Q7OA==",
-      "type": "package",
-      "path": "nunit/3.12.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "CHANGES.md",
-        "LICENSE.txt",
-        "NOTICES.txt",
-        "build/NUnit.props",
-        "lib/net35/nunit.framework.dll",
-        "lib/net35/nunit.framework.pdb",
-        "lib/net35/nunit.framework.xml",
-        "lib/net40/nunit.framework.dll",
-        "lib/net40/nunit.framework.pdb",
-        "lib/net40/nunit.framework.xml",
-        "lib/net45/nunit.framework.dll",
-        "lib/net45/nunit.framework.pdb",
-        "lib/net45/nunit.framework.xml",
-        "lib/netstandard1.4/nunit.framework.dll",
-        "lib/netstandard1.4/nunit.framework.pdb",
-        "lib/netstandard1.4/nunit.framework.xml",
-        "lib/netstandard2.0/nunit.framework.dll",
-        "lib/netstandard2.0/nunit.framework.pdb",
-        "lib/netstandard2.0/nunit.framework.xml",
-        "nunit.3.12.0.nupkg.sha512",
-        "nunit.nuspec"
-      ]
+    "Dropzone.Android/1.0.0": {
+      "type": "project",
+      "path": "../Dropzone.Android/Dropzone.Android.csproj",
+      "msbuildProject": "../Dropzone.Android/Dropzone.Android.csproj"
     },
-    "Xamarin.UITest/3.0.3": {
-      "sha512": "hFrW7UPA1QrGjIRmb8uNUh0lsF7BPFRXLA0EkGasDu+UAb5zhjYArK+sRG3tdDggXaAAmC1fVK3R8lH6+GLmxQ==",
-      "type": "package",
-      "path": "xamarin.uitest/3.0.3",
-      "hasTools": true,
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.md",
-        "ThirdPartyNotices.txt",
-        "lib/net45/Xamarin.UITest.dll",
-        "lib/net45/Xamarin.UITest.xml",
-        "lib/portable-net45+win8+wp8/Xamarin.UITest.dll",
-        "lib/portable-net45+win8+wp8/Xamarin.UITest.xml",
-        "tools/test-cloud.exe",
-        "xamarin.uitest.3.0.3.nupkg.sha512",
-        "xamarin.uitest.nuspec"
-      ]
+    "Dropzone.iOS/1.0.0": {
+      "type": "project",
+      "path": "../Dropzone.iOS/Dropzone.iOS.csproj",
+      "msbuildProject": "../Dropzone.iOS/Dropzone.iOS.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.6.1": [
-      "NUnit >= 3.12.0",
-      "Xamarin.UITest >= 3.0.3"
+      "Dropzone.Android >= 1.0.0",
+      "Dropzone.iOS >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "/Users/yufei/.nuget/packages/": {}
+    "C:\\Users\\ianga\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone.UITests/Dropzone.UITests.csproj",
+      "projectUniqueName": "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone.UITests\\Dropzone.UITests.csproj",
       "projectName": "Dropzone.UITests",
-      "projectPath": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone.UITests/Dropzone.UITests.csproj",
-      "packagesPath": "/Users/yufei/.nuget/packages/",
-      "outputPath": "/Users/yufei/Library/CloudStorage/iCloudDrive/Documents/CS461P/SkydivingDropzone/Dropzone.UITests/obj/",
+      "projectPath": "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone.UITests\\Dropzone.UITests.csproj",
+      "packagesPath": "C:\\Users\\ianga\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone.UITests\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/Users/yufei/.config/NuGet/NuGet.Config"
+        "C:\\Users\\ianga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net461"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net461": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone.Android\\Dropzone.Android.csproj": {
+              "projectPath": "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone.Android\\Dropzone.Android.csproj"
+            },
+            "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone.iOS\\Dropzone.iOS.csproj": {
+              "projectPath": "C:\\Users\\ianga\\source\\repos\\igaul\\SkydivingDropzone\\Dropzone.iOS\\Dropzone.iOS.csproj"
+            }
+          }
         }
       }
     },
     "frameworks": {
-      "net461": {
-        "dependencies": {
-          "NUnit": {
-            "target": "Package",
-            "version": "[3.12.0, )"
-          },
-          "Xamarin.UITest": {
-            "target": "Package",
-            "version": "[3.0.3, )"
-          }
-        }
-      }
+      "net461": {}
     },
     "runtimes": {
       "win": {
@@ -204,5 +164,79 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Dropzone.iOS is not compatible with net461 (.NETFramework,Version=v4.6.1). Project Dropzone.iOS supports: xamarinios10 (Xamarin.iOS,Version=v1.0)",
+      "libraryId": "Dropzone.iOS",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Dropzone.Android is not compatible with net461 (.NETFramework,Version=v4.6.1). Project Dropzone.Android supports: monoandroid90 (MonoAndroid,Version=v9.0)",
+      "libraryId": "Dropzone.Android",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Dropzone.iOS is not compatible with net461 (.NETFramework,Version=v4.6.1) / win. Project Dropzone.iOS supports: xamarinios10 (Xamarin.iOS,Version=v1.0)",
+      "libraryId": "Dropzone.iOS",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1/win"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Dropzone.Android is not compatible with net461 (.NETFramework,Version=v4.6.1) / win. Project Dropzone.Android supports: monoandroid90 (MonoAndroid,Version=v9.0)",
+      "libraryId": "Dropzone.Android",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1/win"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Dropzone.iOS is not compatible with net461 (.NETFramework,Version=v4.6.1) / win-x64. Project Dropzone.iOS supports: xamarinios10 (Xamarin.iOS,Version=v1.0)",
+      "libraryId": "Dropzone.iOS",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1/win-x64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Dropzone.Android is not compatible with net461 (.NETFramework,Version=v4.6.1) / win-x64. Project Dropzone.Android supports: monoandroid90 (MonoAndroid,Version=v9.0)",
+      "libraryId": "Dropzone.Android",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1/win-x64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Dropzone.iOS is not compatible with net461 (.NETFramework,Version=v4.6.1) / win-x86. Project Dropzone.iOS supports: xamarinios10 (Xamarin.iOS,Version=v1.0)",
+      "libraryId": "Dropzone.iOS",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1/win-x86"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Dropzone.Android is not compatible with net461 (.NETFramework,Version=v4.6.1) / win-x86. Project Dropzone.Android supports: monoandroid90 (MonoAndroid,Version=v9.0)",
+      "libraryId": "Dropzone.Android",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1/win-x86"
+      ]
+    }
+  ]
 }
