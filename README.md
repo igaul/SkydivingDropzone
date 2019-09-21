@@ -1,6 +1,9 @@
 # Skydiving Dropzone
 Copyright (c) 2019 Yufei Tao Ian Gaul
 
+# Build Status
+![data screenshot](https://app.bitrise.io/app/efc73a2cedf45fcc/status.svg?token=cd02DUPJBXnpKWCEhnnhHQ&branch=master)
+
 # Description
 The goal of this project is to provide an open source cross platform (iphone/android) mobile
 app for skydivers. This app can help skydivers to log their jumps. Users can store gear and 
